@@ -1,0 +1,10 @@
+# File created with devenv init command
+
+NAME="jellyfin"
+DISTRIBUTION="debian"
+RELEASE="buster"
+ARCH="amd64"
+HOST="jellyfin.local"
+
+# Select the python interpeter python2.7 or python3
+PYTHON_INTERPRETER=python3
